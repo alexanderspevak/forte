@@ -1,0 +1,1 @@
+Idea for this task is taken from https://exercism.org/tracks/rust/exercises/forth. Solution is mine, tests are copied. 
